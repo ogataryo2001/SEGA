@@ -50,6 +50,10 @@ public class Pause : MonoBehaviour
     /// </summary>
     private const float timeSpeed = 1.0f;
 
+    /// <summary>
+    /// 押したか
+    /// </summary>
+    private bool is_push = false;
 
 
     //-----------------------------------------
@@ -92,11 +96,12 @@ public class Pause : MonoBehaviour
             mainCanvas.GetComponent<CorrectRouteDetermination>().Clear_transitPointStorage();
             mainCanvas.GetComponent<DrawingLines>().Clear_route();
 
+            is_push = true;
 
             // 一時停止へ
             Time.timeScale = stopTime;
         }
-        else if (!FlagManager.is_firstGameScene)
+        else if(is_push)
         {
             // 初期化
             mainCanvas.SetActive(true);
@@ -106,6 +111,9 @@ public class Pause : MonoBehaviour
             resumeButton.SetActive(false);
             titleTransitionButton.SetActive(false);
             gameEndButton.SetActive(false);
+
+            is_push = false;
+
             Time.timeScale = timeSpeed;
         }
     }

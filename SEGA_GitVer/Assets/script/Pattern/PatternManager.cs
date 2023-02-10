@@ -171,9 +171,8 @@ class PatternManager : MonoBehaviour
     /// </summary>
     public void SetActive_Pattern()
     {
-        //パターンが出ていない且つ、ディフェンスフェイズなら
-        if (!FlagManager.is_pattern && ConditionManager.playerMode == Condition.defense 
-            || !FlagManager.is_firstGameScene)
+        //パターンが出ていない時ならば
+        if (!FlagManager.is_pattern)
         {
             FlagManager.is_pattern = true;
             switch (m_DifficultyPatten)

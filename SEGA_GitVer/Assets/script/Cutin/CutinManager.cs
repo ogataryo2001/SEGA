@@ -6,6 +6,11 @@ using UnityEngine.Video;
 public class CutinManager : MonoBehaviour
 {
     /// <summary>
+    /// メインのキャンバス
+    /// </summary>
+    [SerializeField] GameObject mainCanvas;
+
+    /// <summary>
     /// プレイヤーのカットインパネル
     /// </summary>
     [SerializeField] GameObject PlayerCutinPanel;
@@ -88,6 +93,10 @@ public class CutinManager : MonoBehaviour
         is_which = true;
         Time.timeScale = timeSpeed_zero;
 
+        // 一時的な非表示
+        mainCanvas.SetActive(false);
+
+
         PlayerCutinPanel.SetActive(true);
         CutinBackGround.SetActive(true);
         m_Animator["Player"].Play("PlayerCutinStart");
@@ -104,6 +113,9 @@ public class CutinManager : MonoBehaviour
     {
         is_which = false;
         Time.timeScale = timeSpeed_zero;
+
+        // 一時的な非表示
+        mainCanvas.SetActive(false);
 
         EnemyCutinPanel.SetActive(true);
         CutinBackGround.SetActive(true);
@@ -122,7 +134,7 @@ public class CutinManager : MonoBehaviour
     /// <returns>動画時間分の待機</returns>
     IEnumerator EndCutin(float waitTime)
     {
-        yield return new WaitForSeconds(waitTime);
+        yield return new WaitForSecondsRealtime(waitTime);
 
         if(is_which)
         {
@@ -143,10 +155,13 @@ public class CutinManager : MonoBehaviour
     /// <returns>２秒の待機時間</returns>
     IEnumerator End_all(float waitTime)
     {
-        yield return new WaitForSeconds(waitTime);
+        yield return new WaitForSecondsRealtime(waitTime);
 
         Time.timeScale = timeSpeed;
         FlagManager.is_direction = true;
+
+        // メインキャンバスを表示
+        mainCanvas.SetActive(true);
 
         PlayerCutinPanel.SetActive(false);
         EnemyCutinPanel.SetActive(false);

@@ -122,12 +122,6 @@ public class FlagManager : MonoBehaviour
     /// </summary>
     public static bool is_pattern = false;
 
-    /// <summary>
-    /// ゲームシーンに切り替わって最初か
-    /// </summary>
-    public static bool is_firstGameScene = false;
-
-
 
     //-----------------------------------------
     // フェイド関連
@@ -179,6 +173,5 @@ public class FlagManager : MonoBehaviour
 
         is_startMovie = false;
         is_pattern = false;
-        is_firstGameScene = false;
     }
 }
