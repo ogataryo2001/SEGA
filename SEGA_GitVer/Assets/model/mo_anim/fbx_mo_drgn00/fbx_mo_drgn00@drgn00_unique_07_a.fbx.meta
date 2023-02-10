@@ -1,0 +1,150 @@
+fileFormatVersion: 2
+guid: 7cec5ec712b810547a9e717b96305489
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: EffectNode01
+    100002: //RootNode
+    100004: j_ago
+    100006: j_asi_l
+    100008: j_asi_r
+    100010: j_hara
+    100012: j_hiza_l
+    100014: j_hiza_r
+    100016: j_kao
+    100018: j_kata_l
+    100020: j_kata_r
+    100022: j_kosi
+    100024: j_kubi_a
+    100026: j_kubi_b
+    100028: j_momo_l
+    100030: j_momo_r
+    100032: j_mune
+    100034: j_shadow_grid
+    100036: j_sippo_a
+    100038: j_sippo_b
+    100040: j_sippo_c
+    100042: j_sippo_d
+    100044: j_sippo_e
+    100046: j_sippo_f
+    100048: j_te_l
+    100050: j_te_r
+    100052: j_toe_l
+    100054: j_toe_r
+    100056: j_ude_l
+    100058: j_ude_r
+    100060: j_wing_l_a
+    100062: j_wing_l_b
+    100064: j_wing_l_c
+    100066: j_wing_r_a
+    100068: j_wing_r_b
+    100070: j_wing_r_c
+    100072: sample_poly
+    100074: shadow_grid
+    100076: EffectNode02
+    100078: EffectNode03
+    100080: EffectNode04
+    100082: EffectNode05
+    400000: EffectNode01
+    400002: //RootNode
+    400004: j_ago
+    400006: j_asi_l
+    400008: j_asi_r
+    400010: j_hara
+    400012: j_hiza_l
+    400014: j_hiza_r
+    400016: j_kao
+    400018: j_kata_l
+    400020: j_kata_r
+    400022: j_kosi
+    400024: j_kubi_a
+    400026: j_kubi_b
+    400028: j_momo_l
+    400030: j_momo_r
+    400032: j_mune
+    400034: j_shadow_grid
+    400036: j_sippo_a
+    400038: j_sippo_b
+    400040: j_sippo_c
+    400042: j_sippo_d
+    400044: j_sippo_e
+    400046: j_sippo_f
+    400048: j_te_l
+    400050: j_te_r
+    400052: j_toe_l
+    400054: j_toe_r
+    400056: j_ude_l
+    400058: j_ude_r
+    400060: j_wing_l_a
+    400062: j_wing_l_b
+    400064: j_wing_l_c
+    400066: j_wing_r_a
+    400068: j_wing_r_b
+    400070: j_wing_r_c
+    400072: sample_poly
+    400074: shadow_grid
+    400076: EffectNode02
+    400078: EffectNode03
+    400080: EffectNode04
+    400082: EffectNode05
+    4300000: shadow_grid
+    4300002: sample_poly
+    7400000: Take 001
+    9500000: //RootNode
+    11100000: //RootNode
+    13700000: sample_poly
+    13700002: shadow_grid
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 2
+    tangentImportMode: 2
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  additionalBone: 0
+  userData: 

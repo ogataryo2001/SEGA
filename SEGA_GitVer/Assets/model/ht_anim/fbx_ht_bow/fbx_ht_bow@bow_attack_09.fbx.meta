@@ -1,0 +1,166 @@
+fileFormatVersion: 2
+guid: c1caae7679704e2499fa72357a59b108
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: arrow_sample
+    100002: bow_sample
+    100004: //RootNode
+    100006: ht_0040000_f10
+    100008: j_armor_l
+    100010: j_armor_r
+    100012: j_asi_l
+    100014: j_asi_r
+    100016: j_bow_a
+    100018: j_bow_b
+    100020: j_bow_c
+    100022: j_buki_a
+    100024: j_buki_b
+    100026: j_hara
+    100028: j_kami_a
+    100030: j_kami_b
+    100032: j_kao
+    100034: j_kata_l
+    100036: j_kata_r
+    100038: j_kosi
+    100040: j_kubi
+    100042: j_momo_l
+    100044: j_momo_r
+    100046: j_mune
+    100048: j_sune_l
+    100050: j_sune_r
+    100052: j_te_l
+    100054: j_te_r
+    100056: j_ude_l
+    100058: j_ude_r
+    100060: j_yubi_l
+    100062: j_yubi_r
+    100064: j_yure_b
+    100066: j_yure_f
+    100068: j_yure_l
+    100070: j_yure_r
+    100072: shadow_grid
+    100074: j_cannon_a
+    100076: j_cannon_b
+    100078: j_hammer_a
+    100080: j_lance_a
+    100082: j_lance_b
+    400000: arrow_sample
+    400002: bow_sample
+    400004: //RootNode
+    400006: ht_0040000_f10
+    400008: j_armor_l
+    400010: j_armor_r
+    400012: j_asi_l
+    400014: j_asi_r
+    400016: j_bow_a
+    400018: j_bow_b
+    400020: j_bow_c
+    400022: j_buki_a
+    400024: j_buki_b
+    400026: j_hara
+    400028: j_kami_a
+    400030: j_kami_b
+    400032: j_kao
+    400034: j_kata_l
+    400036: j_kata_r
+    400038: j_kosi
+    400040: j_kubi
+    400042: j_momo_l
+    400044: j_momo_r
+    400046: j_mune
+    400048: j_sune_l
+    400050: j_sune_r
+    400052: j_te_l
+    400054: j_te_r
+    400056: j_ude_l
+    400058: j_ude_r
+    400060: j_yubi_l
+    400062: j_yubi_r
+    400064: j_yure_b
+    400066: j_yure_f
+    400068: j_yure_l
+    400070: j_yure_r
+    400072: shadow_grid
+    400074: j_cannon_a
+    400076: j_cannon_b
+    400078: j_hammer_a
+    400080: j_lance_a
+    400082: j_lance_b
+    2300000: arrow_sample
+    2300002: shadow_grid
+    3300000: arrow_sample
+    3300002: shadow_grid
+    4300000: arrow_sample
+    4300002: shadow_grid
+    4300004: ht_0040000_f10
+    4300006: bow_sample
+    7400000: Take 001
+    9500000: //RootNode
+    11100000: //RootNode
+    13700000: bow_sample
+    13700002: ht_0040000_f10
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 0
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 0
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 2
+    tangentImportMode: 2
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

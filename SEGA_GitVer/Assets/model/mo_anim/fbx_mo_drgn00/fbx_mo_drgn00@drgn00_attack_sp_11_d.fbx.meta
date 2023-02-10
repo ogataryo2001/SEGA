@@ -1,0 +1,323 @@
+fileFormatVersion: 2
+guid: 0e591e6fcde85f5419a5e8059b520e39
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: EffectNode01
+    100002: //RootNode
+    100004: j_ago
+    100006: j_asi_l
+    100008: j_asi_r
+    100010: j_hara
+    100012: j_hiza_l
+    100014: j_hiza_r
+    100016: j_kao
+    100018: j_kata_l
+    100020: j_kata_r
+    100022: j_kosi
+    100024: j_kubi_a
+    100026: j_kubi_b
+    100028: j_momo_l
+    100030: j_momo_r
+    100032: j_mune
+    100034: j_shadow_grid
+    100036: j_sippo_a
+    100038: j_sippo_b
+    100040: j_sippo_c
+    100042: j_sippo_d
+    100044: j_sippo_e
+    100046: j_sippo_f
+    100048: j_te_l
+    100050: j_te_r
+    100052: j_toe_l
+    100054: j_toe_r
+    100056: j_ude_l
+    100058: j_ude_r
+    100060: j_wing_l_a
+    100062: j_wing_l_b
+    100064: j_wing_l_c
+    100066: j_wing_r_a
+    100068: j_wing_r_b
+    100070: j_wing_r_c
+    100072: sample_poly
+    100074: shadow_grid
+    100076: Export:j_ago
+    100078: Export:j_asi_l
+    100080: Export:j_asi_r
+    100082: Export:j_hara
+    100084: Export:j_hiza_l
+    100086: Export:j_hiza_r
+    100088: Export:j_kao
+    100090: Export:j_kata_l
+    100092: Export:j_kata_r
+    100094: Export:j_kosi
+    100096: Export:j_kubi_a
+    100098: Export:j_kubi_b
+    100100: Export:j_momo_l
+    100102: Export:j_momo_r
+    100104: Export:j_mune
+    100106: Export:j_sippo_a
+    100108: Export:j_sippo_b
+    100110: Export:j_sippo_c
+    100112: Export:j_sippo_d
+    100114: Export:j_sippo_e
+    100116: Export:j_sippo_f
+    100118: Export:j_te_l
+    100120: Export:j_te_r
+    100122: Export:j_toe_l
+    100124: Export:j_toe_r
+    100126: Export:j_ude_l
+    100128: Export:j_ude_r
+    100130: Export:j_wing_l_a
+    100132: Export:j_wing_l_b
+    100134: Export:j_wing_l_c
+    100136: Export:j_wing_r_a
+    100138: Export:j_wing_r_b
+    100140: Export:j_wing_r_c
+    100142: Export:sample_poly
+    100144: Export:shadow_grid
+    100146: EffectNode02
+    100148: EffectNode03
+    100150: EffectNode04
+    100152: EffectNode05
+    400000: EffectNode01
+    400002: //RootNode
+    400004: j_ago
+    400006: j_asi_l
+    400008: j_asi_r
+    400010: j_hara
+    400012: j_hiza_l
+    400014: j_hiza_r
+    400016: j_kao
+    400018: j_kata_l
+    400020: j_kata_r
+    400022: j_kosi
+    400024: j_kubi_a
+    400026: j_kubi_b
+    400028: j_momo_l
+    400030: j_momo_r
+    400032: j_mune
+    400034: j_shadow_grid
+    400036: j_sippo_a
+    400038: j_sippo_b
+    400040: j_sippo_c
+    400042: j_sippo_d
+    400044: j_sippo_e
+    400046: j_sippo_f
+    400048: j_te_l
+    400050: j_te_r
+    400052: j_toe_l
+    400054: j_toe_r
+    400056: j_ude_l
+    400058: j_ude_r
+    400060: j_wing_l_a
+    400062: j_wing_l_b
+    400064: j_wing_l_c
+    400066: j_wing_r_a
+    400068: j_wing_r_b
+    400070: j_wing_r_c
+    400072: sample_poly
+    400074: shadow_grid
+    400076: Export:j_ago
+    400078: Export:j_asi_l
+    400080: Export:j_asi_r
+    400082: Export:j_hara
+    400084: Export:j_hiza_l
+    400086: Export:j_hiza_r
+    400088: Export:j_kao
+    400090: Export:j_kata_l
+    400092: Export:j_kata_r
+    400094: Export:j_kosi
+    400096: Export:j_kubi_a
+    400098: Export:j_kubi_b
+    400100: Export:j_momo_l
+    400102: Export:j_momo_r
+    400104: Export:j_mune
+    400106: Export:j_sippo_a
+    400108: Export:j_sippo_b
+    400110: Export:j_sippo_c
+    400112: Export:j_sippo_d
+    400114: Export:j_sippo_e
+    400116: Export:j_sippo_f
+    400118: Export:j_te_l
+    400120: Export:j_te_r
+    400122: Export:j_toe_l
+    400124: Export:j_toe_r
+    400126: Export:j_ude_l
+    400128: Export:j_ude_r
+    400130: Export:j_wing_l_a
+    400132: Export:j_wing_l_b
+    400134: Export:j_wing_l_c
+    400136: Export:j_wing_r_a
+    400138: Export:j_wing_r_b
+    400140: Export:j_wing_r_c
+    400142: Export:sample_poly
+    400144: Export:shadow_grid
+    400146: EffectNode02
+    400148: EffectNode03
+    400150: EffectNode04
+    400152: EffectNode05
+    2300000: Export:shadow_grid
+    3300000: Export:shadow_grid
+    4300000: shadow_grid
+    4300002: sample_poly
+    4300004: Export:shadow_grid
+    4300006: Export:sample_poly
+    7400000: drgn00_attack_sp_11_d
+    9500000: //RootNode
+    11100000: //RootNode
+    13700000: sample_poly
+    13700002: shadow_grid
+    13700004: Export:sample_poly
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: drgn00_attack_sp_11_d
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 15
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Export:j_kosi
+        weight: 1
+      - path: Export:j_kosi/Export:j_hara
+        weight: 1
+      - path: Export:j_kosi/Export:j_hara/Export:j_mune
+        weight: 1
+      - path: Export:j_kosi/Export:j_hara/Export:j_mune/Export:j_kata_l
+        weight: 1
+      - path: Export:j_kosi/Export:j_hara/Export:j_mune/Export:j_kata_l/Export:j_ude_l
+        weight: 1
+      - path: Export:j_kosi/Export:j_hara/Export:j_mune/Export:j_kata_l/Export:j_ude_l/Export:j_te_l
+        weight: 1
+      - path: Export:j_kosi/Export:j_hara/Export:j_mune/Export:j_kata_l/Export:j_ude_l/Export:j_te_l/Export:j_wing_l_a
+        weight: 1
+      - path: Export:j_kosi/Export:j_hara/Export:j_mune/Export:j_kata_l/Export:j_ude_l/Export:j_te_l/Export:j_wing_l_b
+        weight: 1
+      - path: Export:j_kosi/Export:j_hara/Export:j_mune/Export:j_kata_l/Export:j_ude_l/Export:j_te_l/Export:j_wing_l_c
+        weight: 1
+      - path: Export:j_kosi/Export:j_hara/Export:j_mune/Export:j_kata_r
+        weight: 1
+      - path: Export:j_kosi/Export:j_hara/Export:j_mune/Export:j_kata_r/Export:j_ude_r
+        weight: 1
+      - path: Export:j_kosi/Export:j_hara/Export:j_mune/Export:j_kata_r/Export:j_ude_r/Export:j_te_r
+        weight: 1
+      - path: Export:j_kosi/Export:j_hara/Export:j_mune/Export:j_kata_r/Export:j_ude_r/Export:j_te_r/Export:j_wing_r_a
+        weight: 1
+      - path: Export:j_kosi/Export:j_hara/Export:j_mune/Export:j_kata_r/Export:j_ude_r/Export:j_te_r/Export:j_wing_r_b
+        weight: 1
+      - path: Export:j_kosi/Export:j_hara/Export:j_mune/Export:j_kata_r/Export:j_ude_r/Export:j_te_r/Export:j_wing_r_c
+        weight: 1
+      - path: Export:j_kosi/Export:j_hara/Export:j_mune/Export:j_kubi_a
+        weight: 1
+      - path: Export:j_kosi/Export:j_hara/Export:j_mune/Export:j_kubi_a/Export:j_kubi_b
+        weight: 1
+      - path: Export:j_kosi/Export:j_hara/Export:j_mune/Export:j_kubi_a/Export:j_kubi_b/Export:j_kao
+        weight: 1
+      - path: Export:j_kosi/Export:j_hara/Export:j_mune/Export:j_kubi_a/Export:j_kubi_b/Export:j_kao/Export:j_ago
+        weight: 1
+      - path: Export:j_kosi/Export:j_momo_l
+        weight: 1
+      - path: Export:j_kosi/Export:j_momo_l/Export:j_hiza_l
+        weight: 1
+      - path: Export:j_kosi/Export:j_momo_l/Export:j_hiza_l/Export:j_asi_l
+        weight: 1
+      - path: Export:j_kosi/Export:j_momo_l/Export:j_hiza_l/Export:j_asi_l/Export:j_toe_l
+        weight: 1
+      - path: Export:j_kosi/Export:j_momo_r
+        weight: 1
+      - path: Export:j_kosi/Export:j_momo_r/Export:j_hiza_r
+        weight: 1
+      - path: Export:j_kosi/Export:j_momo_r/Export:j_hiza_r/Export:j_asi_r
+        weight: 1
+      - path: Export:j_kosi/Export:j_momo_r/Export:j_hiza_r/Export:j_asi_r/Export:j_toe_r
+        weight: 1
+      - path: Export:j_kosi/Export:j_sippo_a
+        weight: 1
+      - path: Export:j_kosi/Export:j_sippo_a/Export:j_sippo_b
+        weight: 1
+      - path: Export:j_kosi/Export:j_sippo_a/Export:j_sippo_b/Export:j_sippo_c
+        weight: 1
+      - path: Export:j_kosi/Export:j_sippo_a/Export:j_sippo_b/Export:j_sippo_c/Export:j_sippo_d
+        weight: 1
+      - path: Export:j_kosi/Export:j_sippo_a/Export:j_sippo_b/Export:j_sippo_c/Export:j_sippo_d/Export:j_sippo_e
+        weight: 1
+      - path: Export:j_kosi/Export:j_sippo_a/Export:j_sippo_b/Export:j_sippo_c/Export:j_sippo_d/Export:j_sippo_e/Export:j_sippo_f
+        weight: 1
+      - path: Export:sample_poly
+        weight: 1
+      - path: Export:shadow_grid
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 2
+    tangentImportMode: 2
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  additionalBone: 0
+  userData: 
